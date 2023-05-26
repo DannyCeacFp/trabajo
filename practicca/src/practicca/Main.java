@@ -10,6 +10,7 @@ public class Main {
 		String saludo4 = "hola todos";
 		
 		String bienvenida="Bienvenido";
+		String bienvenida2="Bienvenido";
 
 	}
 
