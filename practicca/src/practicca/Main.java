@@ -7,11 +7,8 @@ public class Main {
 
 
 		String saludo = "cambiando 1 ";
-
-
 		String saludo2 = "hola a tis";
 		String saludo3 = "hola a ti";
-
 		String saludo4 = "hola todos";
 		
 		String bienvenida="Bienvenido";
