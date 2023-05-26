@@ -10,9 +10,10 @@ public class Main {
 		String saludo4 = "hola todos";
 		
 		String bienvenida="Bienvenido";
-		String bienvenida2="Bienvenido";
-		String bienvenida3="Bienvenido prro";
-		String bienvenida4="Bienvenido";
+		
+
+		String bienvenida2="Bienvenido a ti";
+		String bienvenida3="Bienvenido";
 
 	}
 
