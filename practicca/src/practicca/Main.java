@@ -5,7 +5,9 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String saludo = "cambiando";
+
+		String saludo = "cambiando 1 ";
+
 
 		String saludo2 = "hola a tis";
 		String saludo3 = "hola a ti";
@@ -17,6 +19,7 @@ public class Main {
 
 		String bienvenida2="Bienvenido a ti";
 		String bienvenida3="Bienvenido";
+		String bienvenida4="Bienvenido";
 
 	}
 
