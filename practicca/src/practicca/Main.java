@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		String saludo = "Hola mundo 2";
 		String saludo2 = "Hola mundo 2";
+		String saludo3 = "Hola mundo 2";
 
 	}
 
