@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String saludo = "hola a ti";
+		String saludo = "";
 		String saludo2 = "hola a tis";
 		String saludo3 = "hola a ti";
 
