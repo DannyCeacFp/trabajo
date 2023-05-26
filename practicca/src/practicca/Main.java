@@ -7,7 +7,7 @@ public class Main {
 		String saludo = "hola todos";
 		String saludo2 = "hola todos";
 		String saludo3 = "hola todos";
-		String saludo4 = "Hola mundo 2";
+		String saludo4 = "hola todos";
 		
 
 
