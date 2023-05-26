@@ -17,6 +17,7 @@ public class Main {
 
 		String bienvenida2="Bienvenido a ti";
 		String bienvenida3="Bienvenido";
+		String bienvenida4="Bienvenido";
 
 	}
 
